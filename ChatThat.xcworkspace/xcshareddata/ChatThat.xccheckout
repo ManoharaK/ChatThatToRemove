@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFF8442F-7C36-40D8-80D0-755BE7279696</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ChatThat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C0B2D262-574D-414D-9B96-977349970416</key>
+		<string>https://github.com/vmmobidev/ChatThatToRemove.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ChatThat.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C0B2D262-574D-414D-9B96-977349970416</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vmmobidev/ChatThatToRemove.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C0B2D262-574D-414D-9B96-977349970416</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C0B2D262-574D-414D-9B96-977349970416</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ChatThat</string>
+		</dict>
+	</array>
+</dict>
+</plist>
